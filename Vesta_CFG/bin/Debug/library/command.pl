@@ -1,0 +1,1 @@
+"setpicture 0x1"

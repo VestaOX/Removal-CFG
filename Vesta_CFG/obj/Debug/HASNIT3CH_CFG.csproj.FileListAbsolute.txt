@@ -1,0 +1,74 @@
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\Vesta_CFG.exe.config
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\Vesta_CFG.exe
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\Vesta_CFG.pdb
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\Guna.UI2.dll
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.AssemblyReference.cache
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.SuggestedBindingRedirects.cache
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.Form1.resources
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.Properties.Resources.resources
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.GenerateResource.cache
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CoreCompileInputs.cache
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CopyComplete
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.exe
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\obj\Debug\Vesta_CFG.pdb
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\MetroFramework.Design.dll
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\MetroFramework.dll
+C:\Users\hscom\source\repos\Vesta_CFG\Vesta_CFG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.AssemblyReference.cache
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.SuggestedBindingRedirects.cache
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.Form1.resources
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.Properties.Resources.resources
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.GenerateResource.cache
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CoreCompileInputs.cache
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Vesta_CFG.exe.config
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Vesta_CFG.exe
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Vesta_CFG.pdb
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Downloader.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Guna.UI2.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Ionic.Zip.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\MetroFramework.Design.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\MetroFramework.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CopyComplete
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.exe
+C:\Users\B3lik0v\Desktop\20-4-23\Vesta_CFG\obj\Debug\Vesta_CFG.pdb
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.exe.config
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.exe
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.pdb
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Guna.UI2.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Ionic.Zip.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.Design.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.AssemblyReference.cache
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.SuggestedBindingRedirects.cache
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.Form1.resources
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.Properties.Resources.resources
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.GenerateResource.cache
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CoreCompileInputs.cache
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CopyComplete
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.exe
+C:\Users\hscom\Downloads\Telegram Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.pdb
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.exe.config
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.exe
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Vesta_CFG.pdb
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Guna.UI2.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Ionic.Zip.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.Design.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.AssemblyReference.cache
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.Form1.resources
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.Properties.Resources.resources
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.GenerateResource.cache
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CoreCompileInputs.cache
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.csproj.CopyComplete
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.exe
+C:\Users\DeltaOS\Desktop\20-4-23 (7)\Vesta_CFG\obj\Debug\Vesta_CFG.pdb

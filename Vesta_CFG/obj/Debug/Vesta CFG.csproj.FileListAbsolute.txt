@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\VestaCFG.exe.config
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\VestaCFG.exe
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\VestaCFG.pdb
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta CFG.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta CFG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta_CFG.Form1.resources
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta_CFG.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta CFG.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta CFG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\Vesta CFG.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\VestaCFG.exe
+C:\Users\Administrator\Desktop\Removal CFG\Vesta_CFG\obj\Debug\VestaCFG.pdb
